@@ -1,0 +1,18 @@
+{
+  "name": "com.fapoli.opengamecloud",
+  "version": "0.1.0",
+  "displayName": "OpenGameCloud",
+  "description": "Unity client for OpenGameCloud — multiplayer sessions, leaderboards, and cloud saves.",
+  "author": {
+    "name": "Federico Polí",
+    "url": "https://github.com/fapoli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fapoli/opengamecloud-unity.git"
+  },
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
+    "com.endel.nativewebsocket": "https://github.com/endel/NativeWebSocket.git#upm"
+  }
+}
